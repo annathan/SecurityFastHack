@@ -1,4 +1,4 @@
-# What The Hack - Challenge Template
+# Challenge Template
 
 *This is a markdown template for how a WTH Challenge should be organized and formatted. If a section is marked as "(Optional)", you do not need to include it.*
 
